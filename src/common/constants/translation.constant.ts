@@ -1,0 +1,17 @@
+export const TRANSLATION = {
+  name: 'nombre',
+  classification: 'clasificacion',
+  designation: 'designacion',
+  average_height: 'altura_promedio',
+  skin_colors: 'colores_de_piel',
+  hair_colors: 'colores_de_cabello',
+  eye_colors: 'colores_de_ojos',
+  promedio_de_vida: 'esperanza_de_vida',
+  homeworld: 'mundo_natal',
+  language: 'idioma',
+  created: 'creado',
+  edited: 'editado',
+  url: 'url',
+  people: 'personas',
+  films: 'peliculas',
+};
